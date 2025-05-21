@@ -62,6 +62,53 @@ This program includes examples of advanced Swing UI features such as tabbed pane
 
 ---
 
+---
+
+## 🌐 Program 6: Servlet – Cookies, Factorial, Prime Number
+
+This program demonstrates the use of Java Servlets for performing basic arithmetic and cookie management.
+
+- [Cookie Example – Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/6a.png)
+- [Cookie Example – Output](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/6a1.png)
+- [Factorial Example – Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/6b0AK.png)
+- [Factorial Example – Output](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/6bAK.png)
+- [Prime Number Check – Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/prime1.png)
+- [Prime Number Check – Output](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-6-Servelet/prime2.png)
+
+---
+
+## 🍪 Program 7: Servlet – Welcome Page and Cookie Management
+
+This program showcases advanced servlet usage involving multiple pages and cookie data handling.
+
+- [Welcome Page Input 1](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-7-Servelet/7sessionAk.png)
+
+---
+
+## 🛢️ Program 8: JDBC – Insert and Update Operations
+
+This program demonstrates database connectivity using JDBC to perform insert and update operations.
+
+- [Insert Form Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-8_JDBCEx/8a.png)
+- [Insert Confirmation](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-8_JDBCEx/8b.png)
+- [Update Form Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-8_JDBCEx/8CAK.png)
+- [Update Confirmation](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-8_JDBCEx/8DAK.png)
+
+---
+
+## 🗂️ Program 9: JDBC – Add, Delete, and Search Operations
+
+This program includes functionality to add, delete, and search records using Java JDBC.
+
+- [Add Operation Form](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-9-JDBCex/9a.png)
+- [Delete Operation](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-9-JDBCex/9b.png)
+- [Search Input](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-9-JDBCex/9CAK.png)
+- [Search Result](https://github.com/AKill-17/AdvanceJava/blob/main/Exp-9-JDBCex/9DAK.png)
+
+---
+
+📎 This concludes the output documentation for Advanced Java experiments.
+
 📁 Each output screenshot visually represents the execution result of its corresponding Java code and helps validate program functionality.
 
 Feel free to explore the repo for source code and detailed implementation.
